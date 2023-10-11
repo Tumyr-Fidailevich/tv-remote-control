@@ -1,4 +1,0 @@
-D:/QtProjects/TV-remote-control/build-Control-Desktop-Debug/CMakeFiles/Control.dir
-D:/QtProjects/TV-remote-control/build-Control-Desktop-Debug/CMakeFiles/edit_cache.dir
-D:/QtProjects/TV-remote-control/build-Control-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-D:/QtProjects/TV-remote-control/build-Control-Desktop-Debug/CMakeFiles/Control_autogen.dir
